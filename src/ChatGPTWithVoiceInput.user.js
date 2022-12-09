@@ -22,7 +22,7 @@
             vi.Start();
 
             document.addEventListener('keydown', (ev) => {
-                if (ev.altKey && ev.key === 'S' && !/^(?:input|select|textarea|button)$/i.test(ev.target.nodeName)) {
+                if (ev.altKey && (ev.key === 'S' || ev.key === 'T') && !/^(?:input|select|textarea|button)$/i.test(ev.target.nodeName)) {
                     alert('你是不是不小心按到了 CAPSLOCK 鍵？');
                     return;
                 }
