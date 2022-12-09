@@ -24,7 +24,7 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/wjdesign/TampermonkeyScripts/raw/main/ChatGPTWithVoiceInput.user.js">
+        <a href="https://github.com/wjdesign/TampermonkeyScripts/raw/main/src/ChatGPTWithVoiceInput.user.js">
           <img src="https://img.icons8.com/color/96/null/downloads.png" alt="download" width="32" />
         </a>
       </td>
