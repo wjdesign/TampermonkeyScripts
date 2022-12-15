@@ -38,9 +38,13 @@
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>
+        <a href="https://github.com/wjdesign/TampermonkeyScripts/raw/main/src/JSONPrettier.user.js">
+          <img src="https://img.icons8.com/color/96/null/downloads.png" alt="download" width="32" />
+        </a>
+      </td>
+      <td>JSON Prettier</td>
+      <td>將JSON數據漂亮的呈現，支援縮排與複製。</td>
       <td></td>
     </tr>
   </tbody>
