@@ -52,5 +52,6 @@
 
 ## 相關連結
 
+- [【Tampermonkey】輕鬆上手 - 油猴腳本開發](https://wayneblog.ga/2022-12-15/tampermonkey-userscript-tutorial/)
 - [Tampermonkey • Documentation](https://www.tampermonkey.net/documentation.php)
   - [@run-at](https://www.tampermonkey.net/documentation.php#_run_at)
